@@ -22,3 +22,4 @@ if __name__ == "__main__":
         urllib.request.urlretrieve(url, f"emojis/{e['name']}.{ext}")
         print(f"downloaded {e['name']}")
     print(f"done, {len(emojis)} emojis")
+# updated
