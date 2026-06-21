@@ -5,3 +5,4 @@ download all emojis from a server
 ```
 python main.py TOKEN GUILD_ID
 ```
+
